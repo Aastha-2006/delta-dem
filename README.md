@@ -1,3 +1,7 @@
 # delta-dem
 this is a demo for git and github class.
-# Aastha Singh
+# Teacher
+ShraddHA KHAPRA
+# STUDENT
+DELTA STUDENT
+
